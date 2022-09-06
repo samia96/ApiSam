@@ -1,0 +1,5 @@
+[2022-09-06 17:28:18.500] [main] [info] update#setState idle
+[2022-09-06 17:28:24.105] [main] [info] Starting extension host with pid 35530 (fork() took 23 ms).
+[2022-09-06 17:28:48.504] [main] [info] update#setState checking for updates
+[2022-09-06 17:28:48.508] [main] [info] update#setState idle
+[2022-09-06 17:29:57.502] [main] [info] Extension host with pid 35530 exited with code: 0, signal: null.
